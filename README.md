@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 🔭 I'm currently working on frontend development and embedded systems at the student group mu-zero Hyperloop.<br>⚡ I'm generally interested in backend development, machine learning and software security.
 
 
